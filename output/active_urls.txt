@@ -2,7 +2,9 @@ http://api.secwx.com
 http://credit.secwx.com
 http://credit.secwx.com:443
 http://detect.secwx.com
+http://secwx.com
 http://www.secwx.com
 https://api.secwx.com
 https://detect.secwx.com
+https://secwx.com
 https://www.secwx.com

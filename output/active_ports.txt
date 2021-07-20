@@ -5,6 +5,9 @@ credit.secwx.com:80
 detect.secwx.com:22
 detect.secwx.com:443
 detect.secwx.com:80
+secwx.com:22
+secwx.com:443
+secwx.com:80
 www.secwx.com:22
 www.secwx.com:443
 www.secwx.com:80
